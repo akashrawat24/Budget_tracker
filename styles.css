@@ -1,0 +1,148 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+body{
+  background-color:#042331;
+  background-size: cover;
+ 
+}
+#main{
+  text-align: center;
+  color:red;
+
+}
+#main-head{
+  padding :10px 10px 10px 10px;
+}
+.nav-bar{
+  position:fixed;
+  left:0px;
+  width:200px;
+  height:100%;
+  background: #012536;
+
+}
+ li{
+color:white;
+font-size: 19px; 
+margin-top: 20px;
+}
+.nav-bar header{
+  font-size: 27px;
+  text-align: center;
+  color:white;
+  line-height: 40px;
+  background:#012536;
+  user-select: none;
+
+}
+.nav-bar ul a{
+  color:white;
+  display:block;
+  height:50px;
+  width:100%;
+  line-height: 60px;
+  font-size: 20px;
+  padding-left:40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255,255,255,1);
+ 
+}
+
+ul li:hover a{
+  padding-left:50px;
+} 
+.sidebar ul a i{
+  margin-right:16px;
+}
+i{
+  margin-right: 20px;
+}
+#quotes{
+  margin-top: 10px;
+  text-align: center;
+}
+#quotes h3{
+  font-size: 30px;
+  color:rgb(239, 105, 15);
+  font-weight: 400px;
+  margin-top: 50px;
+}
+
+.info{
+  height: 300px;
+  width:330px;
+  background-color: pink;
+  margin-left: 120px;
+  margin-top: 100px;
+  background-image: url("img2.jpg");
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  20px;
+}
+.whole{
+  display: flex;
+  justify-content:center;
+
+}
+p{
+  margin-left: 200px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 300;
+
+}
+.container{
+  margin-left: 440px;
+  margin-top: 100px;
+
+}
+.container 
+.inc-exp-container
+{
+  margin-left: 300px;
+  margin-top: -60px;
+}
+.inc-exp-container h4{
+  margin-left: 200px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#money-plus{
+  color:rgb(11, 10, 10);
+  margin-top: 6px;
+  font-size: 26px;
+}
+.hold h4{
+   margin-top: 30px;
+}
+.hold p{
+  font-size: 20px;
+  font-weight: 300;
+}
+.last-div{
+  margin-top: 20px;
+}
+.last-div h3{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.form-control label{
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.form-control input{
+  margin-left: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.btn{
+  font-size: 24px;
+}
+#text{
+  margin-left: 290px;
+}
